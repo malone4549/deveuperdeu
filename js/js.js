@@ -2856,7 +2856,8 @@ GObserver.iniciar();
 }if(!window.getCrawler()){
 
 
-  window.pixelId = "684f5637ba0dfbfe2e6489cd";
+
+  window.pixelId = "685a4541d1a43aa6f1a5dc4d";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
