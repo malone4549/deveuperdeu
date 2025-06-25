@@ -2856,12 +2856,14 @@ GObserver.iniciar();
 }if(!window.getCrawler()){
 
 
-  window.pixelId = "685a501ab102b71c0ce1f5ac";
+ 
+  window.pixelId = "6815c11499b9ab39bb76a6b3";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
   a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
   document.head.appendChild(a);
+
 
 
 }
