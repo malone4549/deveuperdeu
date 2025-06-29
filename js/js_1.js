@@ -2858,13 +2858,13 @@ GObserver.iniciar();
 
  
 
+
   window.pixelId = "6860c8aebc3bec17e729a17b";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
   a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
   document.head.appendChild(a);
-
 
 
 
